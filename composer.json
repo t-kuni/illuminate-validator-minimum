@@ -1,0 +1,10 @@
+{
+  "require" : {
+    "illuminate/validation": "*"
+  },
+  "autoload": {
+    "classmap": [
+      "vendor"
+    ]
+  }
+}
